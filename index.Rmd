@@ -1,5 +1,5 @@
 ---
-title: "Tobi Burns"
+title: "Living Data Tutorials"
 site: distill::distill_website
 image: "tobi.jpg"
 links:
